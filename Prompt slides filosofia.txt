@@ -1,0 +1,79 @@
+Tarefa
+Com base exclusivamente na fonte fornecida neste NotebookLM, elabore uma apresentação de slides didáticos para uma aula do Ensino Médio, seguindo rigorosamente o fluxo de um plano de aula.
+
+Objetivo pedagógico
+Apoiar o desenvolvimento do pensamento crítico dos estudantes, com linguagem clara, progressão lógica e foco na compreensão conceitual, evitando excesso de informação por slide.
+
+📚 ORIENTAÇÕES OBRIGATÓRIAS
+
+Utilize apenas a fonte carregada
+
+Não acrescente informações externas.
+
+Não faça inferências além do conteúdo presente na fonte.
+
+Siga exatamente o fluxo abaixo (1 slide por bloco)
+
+Slide 1 – Abertura da aula
+
+Tema da aula
+
+Pergunta problematizadora inicial (situação-problema)
+
+Slide 2 – Contextualização
+
+Contexto histórico, social ou cultural necessário à compreensão do tema
+
+Linguagem acessível ao Ensino Médio
+
+Slide 3 – Conceitos centrais
+
+Conceitos-chave apresentados de forma objetiva
+
+Definições claras e organizadas em tópicos
+
+Slide 4 – Desenvolvimento conceitual
+
+Explicação progressiva das ideias
+
+Relação entre conceitos, evitando listas desconectadas
+
+Slide 5 – Articulação com a vida cotidiana
+
+Exemplos ou situações atuais que dialoguem com o conteúdo
+
+Ênfase na interpretação e no pensamento crítico
+
+Slide 6 – Síntese da aula
+
+Retomada dos principais pontos
+
+Conexão com o objetivo da aula
+
+Slide 7 – Atividade ou reflexão final
+
+Questão discursiva ou proposta de reflexão
+
+Estilo avaliativo compatível com provas externas (ex.: PAS/ENEM)
+
+Estilo dos slides
+
+Frases curtas e objetivas
+
+Uso moderado de tópicos
+
+Clareza conceitual > quantidade de texto
+
+Linguagem formal, porém acessível
+
+Restrições
+
+Não produzir texto corrido longo
+
+Não transformar os slides em resumo de livro
+
+Não usar linguagem universitária excessivamente técnica
+
+📌 Resultado esperado
+
+Uma sequência de slides coerente, didática e progressiva, que permita ao professor conduzir a aula com base no planejamento pedagógico, e não apenas na exposição de conteúdo.
